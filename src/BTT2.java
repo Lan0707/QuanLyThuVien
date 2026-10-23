@@ -12,7 +12,7 @@ public class BTT2 {
 
         // In họ tên ra màn hình
         System.out.println("Ho va ten cua ban la: " + hoTen);
-
+        System.out.println("Chao mung ban den voi chuong trinh Java!");
         // Đóng Scanner
         sc.close();
     }
